@@ -30,7 +30,7 @@ One review per line.
   address   = {Portland, Oregon, USA},
   publisher = {Association for Computational Linguistics},
   pages     = {142--150},
-  url       = {http://www.aclweb.org/anthology/P11-1015}}
+  url       = {http://www.aclweb.org/anthology/P11-1015 }
 
 
 ## Instructions
