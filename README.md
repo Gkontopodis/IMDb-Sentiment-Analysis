@@ -33,7 +33,7 @@ One review per line.
   url       = { http://www.aclweb.org/anthology/P11-1015 }
 
 
-## Instructions
+## Linux Terminal Instructions
 
 IMDb.py script requires python 2.7+
 
