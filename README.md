@@ -46,8 +46,8 @@ IMDb.py script requires python 2.7+
 
 #### 2. Use cd command to move to the directory where the script is located.
 
-#### 3. Before running the script from terminal, make sure that all the data frames are saved in the same directory as the script file.
+#### 3. Before running the script from terminal, make sure that all the data frames are saved in the same directory as the file.
 
-#### 4. Type the correct python version followed by the name of the script, including the extension .py (i.e. python3 IMDb.py).
+#### 4. Type the python version installed in your system followed by the name of the script, including the extension .py (i.e. python3 IMDb.py).
 
 #### 5. Wait until the results are printed.
