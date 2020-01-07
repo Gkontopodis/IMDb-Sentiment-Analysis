@@ -37,7 +37,7 @@ One review per line.
 
 IMDb.py script requires python 2.7+
 
-#### 1. The following libraries must be installed in the locally:
+#### 1. The following libraries must be installed locally:
 
 * pandas
 * TfidfVectorizer from sklearn.feature_extraction.text
