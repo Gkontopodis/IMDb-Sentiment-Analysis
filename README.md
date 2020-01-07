@@ -35,7 +35,7 @@ One review per line.
 
 ## Linux Terminal Instructions
 
-IMDb.py script requires python 2.7+
+IMDb.py script requires python 2.7+. After printing the results of its performance on the test set, the model will ask the user to provide a new movie review. It will detect if this new review is positive or negative by returning 1 or 0 respectively.
 
 #### 1. The following libraries must be installed locally:
 
@@ -50,4 +50,8 @@ IMDb.py script requires python 2.7+
 
 #### 4. Type the python version installed in your system followed by the name of the script, including the extension .py (i.e. python3 IMDb.py).
 
-#### 5. Wait until the results are printed.
+#### 5. Wait until the performance results are printed.
+
+#### 6. Write a new movie review and hit Enter.
+
+#### 7. The model will ouput 1 for a positive review or 0 for a negative one.
